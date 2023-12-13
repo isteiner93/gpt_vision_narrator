@@ -10,3 +10,6 @@ gpt-4-vision-preview model describing what it sees on a camera and outputs text 
 3. in narrator.py input your openai token
 4. in Terminal(1) run python capture.py
 5. in Terminal(2) run python narrator.py
+
+## list of languages and accents from gTTs (https://gtts.readthedocs.io/en/latest/module.html#gtts.lang.tts_langs)
+![image](https://github.com/isteiner93/gpt_vision_narrator/assets/59017725/5af3a9e7-6083-47ef-aed3-54968262d4a5)
