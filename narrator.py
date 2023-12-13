@@ -10,7 +10,6 @@ from gtts import gTTS
 
 openai.api_key = 'your_api_key' #this version requires pre-paid/subscribed openai account and available tokens
 
-#set_api_key("e9d3eb900c6b672c3b400d7f5de8a52b")
 
 def encode_image(image_path):
     while True:
